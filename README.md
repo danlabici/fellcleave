@@ -1,10 +1,10 @@
 # FellCleave
 Public guide repo.
 
-# How to contribute
+## How to contribute
 
 First make sure you know how MarkDown language works. Here you can read about it [Markdown Tutorial](https://www.markdowntutorial.com/) and here is a cheatsheet [CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-Simply fork a pake you wish to make changes to it and do a merge request.
+Simply fork a page you wish to make changes to it, read our [CONTRIBUTING page](https://github.com/Akhliskun/fellcleave/blob/master/CONTRIBUTING.md) then do a merge request.
 
 ## Please add the following personal details:
 Full Name:
