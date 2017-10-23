@@ -8,10 +8,15 @@ Simply fork a pake you wish to make changes to it and do a merge request.
 
 ## Please add the following personal details:
 Full Name:
+
 Discord Tag:
+
 Email Address: 
+
 Twitter:
+
 Twitch:
+
 
 The above information will be used to credit you inside our website's [About Us Page](http://fellcleave.com/about-us.html) and inside the guide itself.
 
