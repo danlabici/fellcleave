@@ -39,7 +39,7 @@ To then mold that aether into sorcery, the thaumaturge makes use of a scepter or
   </div>
   
   <div class="col-md-4">
-      <img src="http://fellcleave.com/user/pages/03.classes/thaumaturge/thaumaturge-concept-art.jpg" alt="Thaumaturge Concept Art">
+      <img src="http://fellcleave.com/user/pages/03.classes/thaumaturge/thaumaturge-concept-art.png" alt="Thaumaturge Concept Art">
   </div>   
 </div>
 ## Play Style

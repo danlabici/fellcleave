@@ -39,7 +39,7 @@ metadata:
   </div>
   
   <div class="col-md-4">
-      <img src="http://fellcleave.com/user/pages/03.classes/marauder/marauder-art.jpg" alt="Male Marauder Concept Art">
+      <img src="http://fellcleave.com/user/pages/03.classes/marauder/marauder-art.png" alt="Male Marauder Concept Art">
   </div>   
 </div>
 ## Play Style

@@ -39,7 +39,7 @@ metadata:
   </div>
   
   <div class="col-md-4">
-      <img src="http://fellcleave.com/user/pages/03.classes/arcanist/arcanist-concept.jpg" alt="Female Arcanist Concept Art">
+      <img src="http://fellcleave.com/user/pages/03.classes/arcanist/arcanist-concept.png" alt="Female Arcanist Concept Art">
   </div>   
 </div>
 ## Play Style

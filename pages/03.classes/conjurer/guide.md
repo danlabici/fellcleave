@@ -38,7 +38,7 @@ metadata:
   </div>
   
   <div class="col-md-4">
-      <img src="http://fellcleave.com/user/pages/03.classes/conjurer/conjurer-art.jpg" alt="Female Conjurer Concept Art">
+      <img src="http://fellcleave.com/user/pages/03.classes/conjurer/conjurer-art.png" alt="Female Conjurer Concept Art">
   </div>   
 </div>
 ## Play Style

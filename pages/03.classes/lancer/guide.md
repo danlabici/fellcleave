@@ -39,7 +39,7 @@ metadata:
   </div>
   
   <div class="col-md-4">
-      <img src="http://fellcleave.com/user/pages/03.classes/lancer/lancer-art.jpg" alt="Female Lancer Concept Art">
+      <img src="http://fellcleave.com/user/pages/03.classes/lancer/lancer-art.png" alt="Female Lancer Concept Art">
   </div>   
 </div>
 ## Play Style

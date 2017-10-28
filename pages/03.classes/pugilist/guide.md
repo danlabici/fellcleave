@@ -39,7 +39,7 @@ metadata:
   </div>
   
   <div class="col-md-4">
-      <img src="http://fellcleave.com/user/pages/03.classes/pugilist/pugilist-art.jpg" alt="Male Pugilist Concept Art">
+      <img src="http://fellcleave.com/user/pages/03.classes/pugilist/pugilist-art.png" alt="Male Pugilist Concept Art">
   </div>   
 </div>
 ## Play Style
