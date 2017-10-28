@@ -1,11 +1,31 @@
 ---
 title: 'Hunting Logs'
-displayTitle: 'Arcanist Rank 1 to 5 Hunting Logs'
-shortTitle: 'Hunting Logs'
-metadata:
-    description: 'Arcanist Hunting Log guide covering Rank 1 to 5 with most efficient route to take.'
 visible: true
+favicon: 'http://fellcleave.com/user/images/job_icons/ninja.png'
+SEOTitle: 'Arcanist Class Guides'
+shortTitle: 'Hunting Logs'
+displayTitle: 'Arcanist Rank 1 to 5 Hunting Logs'
 hasIcon: true
+showSubpages: false
+gameVersion: 4.0
+newsImageLarge: huntinglog.jpg
+comments: true
+adsense:
+    - sidebar
+    - comments
+metadata:
+    description: 'Detailed Arcanist leveling rotation guild and tips for a better class understanding.'
+    keywords: 'arcanist, arcanist guide, arcanist leveling, arcanist rotation, how to become an arcanist'
+    author: 'Danut Ioan Labici'
+    'og:title': Arcanist Class Guide
+    'og:type': website
+    'og:url': fellcleave.com/classes/arcanist/
+    'og:image': http://fellcleave.com/classes/arcanist/arcanist-class-banner.jpg
+    'twitter:card' : summary
+    'twitter:site' : @FellCleavecom
+    'twitter:title' : Arcanist Class Guide
+    'twitter:description' : Detailed Arcanist leveling rotation guild including detailed Hunting Logs for each rank.
+    'twitter:image' : http://fellcleave.com/classes/arcanist/arcanist-class-banner.jpg   
 topics:
     - Introduction
     - 'Rank 1 - Lv1-10'
@@ -14,10 +34,6 @@ topics:
     - 'Rank 4 - Lv30-40'
     - 'Rank 5 - Lv40-50'
     - 'Comment Section'
-showSubpages: false
-gameVersion: 3.55
-newsImageLarge: huntinglog.jpg
-comments: true
 ---
 
 ## Guide overview
