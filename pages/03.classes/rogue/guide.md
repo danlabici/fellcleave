@@ -1,17 +1,31 @@
 ---
 title: Rogue
-favicon: rogue.png
 visible: true
+favicon: rogue.png
+SEOTitle: 'Rogue Class Guides'
+shortTitle: Rogue
+displayTitle: 'Rogue Class Guide'
 hasIcon: true
 showSubpages: true
-displayTitle: 'Rogue Class Guide'
-shortTitle: Rogue
-gameVersion: 3.55
+gameVersion: '4.0'
 newsImageLarge: rogue-class-banner.jpg
 comments: true
 adsense:
     - sidebar
     - comments
+metadata:
+    description: 'Detailed Rogue leveling rotation guild and tips for a better class understanding.'
+    keywords: 'Rogue, Rogue guide, Rogue leveling, Rogue rotation, how to become an Rogue'
+    author: 'Danut Ioan Labici'
+    'og:title': Rogue Class Guide
+    'og:type': website
+    'og:url': fellcleave.com/classes/rogue/
+    'og:image': http://fellcleave.com/classes/rogue/rogue-class-banner.jpg
+    'twitter:card' : summary
+    'twitter:site' : @FellCleavecom
+    'twitter:title' : Rogue Class Guide
+    'twitter:description' : Detailed Rogue leveling rotation guild including detailed Hunting Logs for each rank.
+    'twitter:image' : http://fellcleave.com/classes/rogue/rogue-class-banner.jpg   
 ---
 
 ## Lore
