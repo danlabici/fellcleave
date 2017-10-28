@@ -1,17 +1,31 @@
 ---
 title: Lancer
-favicon: lancer.png
 visible: true
+favicon: lancer.png
+SEOTitle: 'Lancer Class Guides'
+shortTitle: Lancer
+displayTitle: 'Lancer Class Guide'
 hasIcon: true
 showSubpages: true
-displayTitle: 'Lancer Class Guide'
-shortTitle: Lancer
-gameVersion: 3.55
+gameVersion: '4.0'
 newsImageLarge: lancer-class-banner.jpg
 comments: true
 adsense:
     - sidebar
     - comments
+metadata:
+    description: 'Detailed Lancer leveling rotation guild and tips for a better class understanding.'
+    keywords: 'Lancer, Lancer guide, Lancer leveling, Lancer rotation, how to become an Lancer'
+    author: 'Danut Ioan Labici'
+    'og:title': Lancer Class Guide
+    'og:type': website
+    'og:url': fellcleave.com/classes/lancer/
+    'og:image': http://fellcleave.com/classes/lancer/lancer-class-banner.jpg
+    'twitter:card' : summary
+    'twitter:site' : @FellCleavecom
+    'twitter:title' : Gladiator Class Guide
+    'twitter:description' : Detailed Lancer leveling rotation guild including detailed Hunting Logs for each rank.
+    'twitter:image' : http://fellcleave.com/classes/lancer/lancer-class-banner.jpg   
 ---
 
 ## Lore
