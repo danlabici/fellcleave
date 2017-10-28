@@ -17,7 +17,7 @@ First make sure you know how MarkDown language works. Here you can read about it
 Simply fork the repo then work on a page you wish to make changes to it, read our [CONTRIBUTING page](https://github.com/Akhliskun/fellcleave/blob/master/CONTRIBUTING.md) to understand the process, then do a pull request. After we review your changes, usually will take few hours or up to 2 days, we will bring the changes to the live website and give you credit for the work!
 
 ## Got any other question?
-Hit use an email at contact@fellcleave.com or add Akhlis#2798 on Discord
+Hit use an email at contact@fellcleave.com or add Akhlis#7531 on Discord
 
 ## Credits
 **Labici "Akhlis" Danut** - Project Owner / Repo Maintainer
