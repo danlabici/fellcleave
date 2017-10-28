@@ -7,7 +7,7 @@ topics:
     - 'Viability in Current Patch'
 visible: true
 showSubpages: false
-displayTitle: 'Red Mage DPS Rotation'
+displayTitle: 'Astrologian DPS Rotation'
 shortTitle: Guide
 gameVersion: '4.0'
 newsImageLarge: redmage-class-banner.jpg
@@ -18,16 +18,16 @@ adsense:
 ---
 
 ## General Information
-Welcome to the **Red Mage DPS Rotation** guide. Here, you will learn everything you need to know about playing an Astrologian in a raid environment, in dungeons and solo content alike.
+Welcome to the **Astrologian DPS Rotation** guide. Here, you will learn everything you need to know about playing an Astrologian in a raid environment, in dungeons and solo content alike.
 
 ## About our Author
-This guide has been written by [Alayna Lazriel](http://na.finalfantasyxiv.com/lodestone/character/2420021/), the guide writer of the job. He is an accomplished player who raids in [Elysium](http://na.finalfantasyxiv.com/lodestone/freecompany/9232238498621213532/) ( [website](http://elysium.gg) ). You can watch his stream on [Twitch](https://www.twitch.tv/garotte14) or connect with him on [Twitter](https://twitter.com/garotte14) and [Reddit](https://www.reddit.com/user/garotte14).
+This guide has been written by **NAMEHERE**, the main theorycrafter of the class/job. He/She is an accomplished player who raids in **FCNAME**. You can also watch his stream on **Twitch/Youtube** or connect with him on **Twitter/Facebook/Website**.
 
 <div id='job-overview'></div>
 ## Job Overview
 Job Overview here
 
-## What Has Changed in 4.0?
+## What Has Changed in 3.55?
 * Change here, including skill and short note/observation.
 * Change here, including skill and short note/observation.
 * Change here, including skill and short note/observation.
