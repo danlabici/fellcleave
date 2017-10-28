@@ -14,18 +14,18 @@ adsense:
     - sidebar
     - comments
 metadata:
-    description: 'Detailed Arcanist leveling rotation guild and tips for a better class understanding.'
-    keywords: 'arcanist, arcanist guide, arcanist leveling, arcanist rotation, how to become an arcanist'
+    description: 'Detailed Arcanist hunting logs covering rank 1 to 5.'
+    keywords: 'arcanist, arcanist guide, arcanist hunting log, arcanist hunt, hunting log'
     author: 'Danut Ioan Labici'
-    'og:title': Arcanist Class Guide
+    'og:title': Arcanist Hunting Log Guide - All Ranks
     'og:type': website
-    'og:url': fellcleave.com/classes/arcanist/
-    'og:image': http://fellcleave.com/classes/arcanist/arcanist-class-banner.jpg
-    'twitter:card' : summary
+    'og:url': http://fellcleave.com/classes/arcanist/hunting-logs
+    'og:image': http://fellcleave.com/classes/arcanist/hunting-logs/huntinglog.jpg
+    'twitter:card' : summary_large_image
     'twitter:site' : @FellCleavecom
-    'twitter:title' : Arcanist Class Guide
-    'twitter:description' : Detailed Arcanist leveling rotation guild including detailed Hunting Logs for each rank.
-    'twitter:image' : http://fellcleave.com/classes/arcanist/arcanist-class-banner.jpg   
+    'twitter:title' : Arcanist Hunting Log Guide - All Ranks
+    'twitter:description' : Detailed Arcanist hunting logs covering rank 1 to 5.
+    'twitter:image' : http://fellcleave.com/classes/arcanist/hunting-logs/huntinglog.jpg   
 topics:
     - Introduction
     - 'Rank 1 - Lv1-10'
