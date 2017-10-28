@@ -5,7 +5,7 @@ topics:
     - 'DPS Rotation'
     - 'Healing Rotation'
     - 'TIPs and Tricks'
-visible: true
+visible: false
 showSubpages: false
 displayTitle: 'Marauder Leveling Rotation'
 shortTitle: Rotation

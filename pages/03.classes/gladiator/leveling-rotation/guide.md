@@ -5,7 +5,7 @@ topics:
     - 'DPS Rotation'
     - 'Healing Rotation'
     - 'TIPs and Tricks'
-visible: true
+visible: false
 showSubpages: false
 displayTitle: 'Gladiator Leveling Rotation'
 shortTitle: Rotation
