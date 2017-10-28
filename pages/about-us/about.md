@@ -144,7 +144,7 @@ Company Number: 248247 D1<br />
 			</div>
             <div class="col-xs-12 col-md-4 main-about-person">
 				<div class="image">
-					<img src="http://fellcleave.com/user/images/job_icons/redmage.png">				
+					<img src="http://fellcleave.com/user/images/job_icons/redmage.png" width="64px" height="64px">				
 				</div>
 				<div class="details">
 					<span class="name">Your Name Here!</span><br/>
@@ -154,7 +154,7 @@ Company Number: 248247 D1<br />
 			</div>
             <div class="col-xs-12 col-md-4 main-about-person">
 				<div class="image">
-					<img src="http://fellcleave.com/user/pages/about-us/samurai.png">				
+					<img src="http://fellcleave.com/user/pages/about-us/samurai.png" width="64px" height="64px">				
 				</div>
 				<div class="details">
 					<span class="name">Your Name Here!</span><br/>
