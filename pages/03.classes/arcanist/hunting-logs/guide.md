@@ -1,13 +1,13 @@
 ---
 title: 'Hunting Logs'
 visible: true
-favicon: http://fellcleave.com/user/images/job_icons/ninja.png
-SEOTitle: 'Arcanist Class Guides'
+favicon: arcanist.png
+SEOTitle: 'Arcanist Hunting Logs - Rank 1 to 5'
 shortTitle: 'Hunting Logs'
 displayTitle: 'Arcanist Rank 1 to 5 Hunting Logs'
 hasIcon: true
 showSubpages: false
-gameVersion: 4.0
+gameVersion: '4.0'
 newsImageLarge: huntinglog.jpg
 comments: true
 adsense:
