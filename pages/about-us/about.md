@@ -26,7 +26,6 @@ Company Number: 248247 D1<br />
 					<span class="name">Akhlis</span><br/>
                     <span class="title">Project Manager</span><br/>
 					<a href="https://twitter.com/AkhlisRo">@AkhlisRo</a>
-                    
 				</div>
 			</div>
             <div class="col-xs-12 col-md-4 main-about-person">
@@ -55,15 +54,14 @@ Company Number: 248247 D1<br />
 			<h2>Guide Writters</h2>
 			<div class="col-xs-12 col-md-4 main-about-person">
 				<div class="image">
-					<img src="http://fellcleave.com/user/pages/about-us/f40ecbffd2c64c8fb315c60b160143bb_b937560c841465f7c4bc8eb47ea7948afc0_96x96.jpg">				
+					<img src="http://fellcleave.com/user/images/job_icons/astrologian.png">				
 				</div>
 				<div class="details">
-					<span class="name">Despair</span><br/>
+					<span class="name">Your Name Here!</span><br/>
                     <span class="title">Astrologian Guide Writer</span><br/>
-					<a href="https://www.twitch.tv/u_despair">Despair on Twitch</a>
+					<a href="http://fellcleave.com/home/guide-writers-needed">Apply Now!</a>
 				</div>
 			</div>
-            
             <div class="col-xs-12 col-md-4 main-about-person">
 				<div class="image">
 					<img src="http://fellcleave.com/user/images/job_icons/bard.png">				
@@ -74,7 +72,6 @@ Company Number: 248247 D1<br />
                     <a href="http://fellcleave.com/home/guide-writers-needed">Apply Now!</a>
 				</div>
 			</div>
-            
             <div class="col-xs-12 col-md-4 main-about-person">
 				<div class="image">
 					<img src="http://fellcleave.com/user/images/job_icons/blackmage.png">			
@@ -85,7 +82,6 @@ Company Number: 248247 D1<br />
 					<a href="http://fellcleave.com/home/guide-writers-needed">Apply Now!</a>
 				</div>
 			</div>
-            
             <div class="col-xs-12 col-md-4 main-about-person">
 				<div class="image">
 					<img src="http://fellcleave.com/user/images/job_icons/darkknight.png">				
@@ -96,7 +92,6 @@ Company Number: 248247 D1<br />
 					<a href="http://fellcleave.com/home/guide-writers-needed">Apply Now!</a>
 				</div>
 			</div>
-            
             <div class="col-xs-12 col-md-4 main-about-person">
 				<div class="image">
 					<img src="http://fellcleave.com/user/images/job_icons/dragoon.png">			
@@ -107,7 +102,6 @@ Company Number: 248247 D1<br />
 					<a href="http://fellcleave.com/home/guide-writers-needed">Apply Now!</a>
 				</div>
 			</div>
-            
             <div class="col-xs-12 col-md-4 main-about-person">
 				<div class="image">
 					<img src="http://fellcleave.com/user/images/job_icons/machinist.png">				
@@ -118,7 +112,6 @@ Company Number: 248247 D1<br />
 					<a href="http://fellcleave.com/home/guide-writers-needed">Apply Now!</a>
 				</div>
 			</div>
-            
             <div class="col-xs-12 col-md-4 main-about-person">
 				<div class="image">
 					<img src="http://fellcleave.com/user/images/job_icons/monk.png">				
@@ -129,7 +122,6 @@ Company Number: 248247 D1<br />
 					<a href="http://fellcleave.com/home/guide-writers-needed">Apply Now!</a>
 				</div>
 			</div>
-            
             <div class="col-xs-12 col-md-4 main-about-person">
 				<div class="image">
 					<img src="http://fellcleave.com/user/images/job_icons/ninja.png">				
@@ -140,7 +132,6 @@ Company Number: 248247 D1<br />
 					<a href="http://fellcleave.com/home/guide-writers-needed">Apply Now!</a>
 				</div>
 			</div>
-            
             <div class="col-xs-12 col-md-4 main-about-person">
 				<div class="image">
 					<img src="http://fellcleave.com/user/images/job_icons/paladin.png">				
@@ -151,18 +142,16 @@ Company Number: 248247 D1<br />
 					<a href="http://fellcleave.com/home/guide-writers-needed">Apply Now!</a>
 				</div>
 			</div>
-            
             <div class="col-xs-12 col-md-4 main-about-person">
 				<div class="image">
-					<img src="http://fellcleave.com/user/pages/about-us/27c440f7dd6acf88be777e06fbb0a6f3_7a573cbc0cda3a3dfc1795cb3d9f7b23fc0_96x96.jpg">				
+					<img src="http://fellcleave.com/user/images/job_icons/redmage.png">				
 				</div>
 				<div class="details">
-					<span class="name">Alayna</span><br/>
+					<span class="name">Your Name Here!</span><br/>
                     <span class="title">Red Mage Guide Writer</span><br/>
-					<a href="https://www.twitch.tv/garotte14">Alayna on Twitch</a>
+					<a href="http://fellcleave.com/home/guide-writers-needed">Apply Now!</a>
 				</div>
 			</div>
-            
             <div class="col-xs-12 col-md-4 main-about-person">
 				<div class="image">
 					<img src="http://fellcleave.com/user/pages/about-us/samurai.png">				
@@ -173,7 +162,6 @@ Company Number: 248247 D1<br />
 					<a href="http://fellcleave.com/home/guide-writers-needed">Apply Now!</a>
 				</div>
 			</div>
-            
             <div class="col-xs-12 col-md-4 main-about-person">
 				<div class="image">
 					<img src="http://fellcleave.com/user/images/job_icons/scholar.png">				
@@ -184,7 +172,6 @@ Company Number: 248247 D1<br />
 					<a href="http://fellcleave.com/home/guide-writers-needed">Apply Now!</a>
 				</div>
 			</div>
-            
             <div class="col-xs-12 col-md-4 main-about-person">
 				<div class="image">
 					<img src="http://fellcleave.com/user/images/job_icons/summoner.png">				
@@ -195,7 +182,6 @@ Company Number: 248247 D1<br />
 					<a href="http://fellcleave.com/home/guide-writers-needed">Apply Now!</a>
 				</div>
 			</div>
-            
             <div class="col-xs-12 col-md-4 main-about-person">
 				<div class="image">
 					<img src="http://fellcleave.com/user/images/job_icons/warrior.png">				
@@ -206,7 +192,6 @@ Company Number: 248247 D1<br />
 					<a href="http://fellcleave.com/home/guide-writers-needed">Apply Now!</a>
 				</div>
 			</div>
-            
             <div class="col-xs-12 col-md-4 main-about-person">
 				<div class="image">
 					<img src="http://fellcleave.com/user/images/job_icons/whitemage.png">				
