@@ -1,5 +1,8 @@
 # FellCleave
-Public guide repo.
+Welcome to our public repo. This repository will containt FellCleave's production pages which you can fork and push contributions to the live website. :star: :heart:
+
+## What is FellCleave
+FellCleave is a fan-site dedicated to providing rotation guides for Final Fantasy 14. Build ontop of Grav 
 
 ## How to contribute
 
