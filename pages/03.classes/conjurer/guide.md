@@ -1,17 +1,31 @@
 ---
 title: Conjurer
-favicon: conjurer.png
 visible: true
+favicon: conjurer.png
+SEOTitle: 'Conjurer Class Guides'
+shortTitle: Conjurer
+displayTitle: 'Conjurer Class Guide'
 hasIcon: true
 showSubpages: true
-displayTitle: 'Conjurer Class Guide and Resources'
-shortTitle: Conjurer
 gameVersion: '4.0'
 newsImageLarge: conjurer-class-banner.jpg
 comments: true
 adsense:
     - sidebar
     - comments
+metadata:
+    description: 'Detailed Conjurer leveling rotation guild and tips for a better class understanding.'
+    keywords: 'Conjurer, Conjurer guide, Conjurer leveling, Conjurer rotation, how to become an Conjurer'
+    author: 'Danut Ioan Labici'
+    'og:title': Conjurer Class Guide
+    'og:type': website
+    'og:url': fellcleave.com/classes/conjurer/
+    'og:image': http://fellcleave.com/classes/conjurer/conjurer-class-banner.jpg
+    'twitter:card' : summary
+    'twitter:site' : @FellCleavecom
+    'twitter:title' : Conjurer Class Guide
+    'twitter:description' : Detailed Conjurer leveling rotation guild including detailed Hunting Logs for each rank.
+    'twitter:image' : http://fellcleave.com/classes/conjurer/conjurer-class-banner.jpg   
 ---
 
 ## Lore
