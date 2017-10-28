@@ -1,17 +1,31 @@
 ---
 title: Pugilist
-favicon: pugilist.png
 visible: true
+favicon: pugilist.png
+SEOTitle: 'Pugilist Class Guides'
+shortTitle: Pugilist
+displayTitle: 'Pugilist Class Guide'
 hasIcon: true
 showSubpages: true
-displayTitle: 'Pugilist Class Guide'
-shortTitle: Pugilist
-gameVersion: 3.55
+gameVersion: '4.0'
 newsImageLarge: pugilist-class-banner.jpg
 comments: true
 adsense:
     - sidebar
     - comments
+metadata:
+    description: 'Detailed Pugilist leveling rotation guild and tips for a better class understanding.'
+    keywords: 'Pugilist, Pugilist guide, Pugilist leveling, Pugilist rotation, how to become an Pugilist'
+    author: 'Danut Ioan Labici'
+    'og:title': Pugilist Class Guide
+    'og:type': website
+    'og:url': fellcleave.com/classes/pugilist/
+    'og:image': http://fellcleave.com/classes/pugilist/marauder-class-banner.jpg
+    'twitter:card' : summary
+    'twitter:site' : @FellCleavecom
+    'twitter:title' : Marauder Class Guide
+    'twitter:description' : Detailed Marauder leveling rotation guild including detailed Hunting Logs for each rank.
+    'twitter:image' : http://fellcleave.com/classes/pugilist/pugilist-class-banner.jpg   
 ---
 
 ## Lore
