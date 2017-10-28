@@ -1,17 +1,31 @@
 ---
 title: Thaumaturge
-favicon: thaumaturge.png
 visible: true
+favicon: thaumaturge.png
+SEOTitle: 'Thaumaturge Class Guides'
+shortTitle: Thaumaturge
+displayTitle: 'Thaumaturge Class Guide'
 hasIcon: true
 showSubpages: true
-displayTitle: 'Thaumaturge Class Guide'
-shortTitle: Thaumaturge
-gameVersion: 3.55
+gameVersion: '4.0'
 newsImageLarge: thaumaturge-class-banner.jpg
 comments: true
 adsense:
     - sidebar
     - comments
+metadata:
+    description: 'Detailed Thaumaturge leveling rotation guild and tips for a better class understanding.'
+    keywords: 'Thaumaturge, Thaumaturge guide, Thaumaturge leveling, Thaumaturge rotation, how to become an Thaumaturge'
+    author: 'Danut Ioan Labici'
+    'og:title': Thaumaturge Class Guide
+    'og:type': website
+    'og:url': fellcleave.com/classes/thaumaturge/
+    'og:image': http://fellcleave.com/classes/rogue/thaumaturge-class-banner.jpg
+    'twitter:card' : summary
+    'twitter:site' : @FellCleavecom
+    'twitter:title' : Thaumaturge Class Guide
+    'twitter:description' : Detailed Thaumaturge leveling rotation guild including detailed Hunting Logs for each rank.
+    'twitter:image' : http://fellcleave.com/classes/thaumaturge/thaumaturge-class-banner.jpg   
 ---
 
 ## Lore
