@@ -1,17 +1,31 @@
 ---
 title: Marauder
-favicon: marauder.png
 visible: true
+favicon: marauder.png
+SEOTitle: 'Marauder Class Guides'
+shortTitle: Marauder
+displayTitle: 'Marauder Class Guide'
 hasIcon: true
 showSubpages: true
-displayTitle: 'Marauder Class Guide'
-shortTitle: Marauder
-gameVersion: 3.55
+gameVersion: '4.0'
 newsImageLarge: marauder-class-banner.jpg
 comments: true
 adsense:
     - sidebar
     - comments
+metadata:
+    description: 'Detailed Marauder leveling rotation guild and tips for a better class understanding.'
+    keywords: 'Marauder, Marauder guide, Marauder leveling, Marauder rotation, how to become an Marauder'
+    author: 'Danut Ioan Labici'
+    'og:title': Marauder Class Guide
+    'og:type': website
+    'og:url': fellcleave.com/classes/marauder/
+    'og:image': http://fellcleave.com/classes/marauder/marauder-class-banner.jpg
+    'twitter:card' : summary
+    'twitter:site' : @FellCleavecom
+    'twitter:title' : Marauder Class Guide
+    'twitter:description' : Detailed Marauder leveling rotation guild including detailed Hunting Logs for each rank.
+    'twitter:image' : http://fellcleave.com/classes/marauder/marauder-class-banner.jpg   
 ---
 
 ## Lore
