@@ -1,17 +1,31 @@
 ---
 title: Gladiator
-favicon: gladiator.png
 visible: true
+favicon: gladiator.png
+SEOTitle: 'Gladiator Class Guides'
+shortTitle: Gladiator
+displayTitle: 'Gladiator Class Guide'
 hasIcon: true
 showSubpages: true
-displayTitle: 'Gladiator Class Guide'
-shortTitle: Gladiator
 gameVersion: '4.0'
 newsImageLarge: gladiator-class-banner.jpg
 comments: true
 adsense:
     - sidebar
     - comments
+metadata:
+    description: 'Detailed Gladiator leveling rotation guild and tips for a better class understanding.'
+    keywords: 'Gladiator, Gladiator guide, Gladiator leveling, Gladiator rotation, how to become an Gladiator'
+    author: 'Danut Ioan Labici'
+    'og:title': Gladiator Class Guide
+    'og:type': website
+    'og:url': fellcleave.com/classes/gladiator/
+    'og:image': http://fellcleave.com/classes/gladiator/gladiator-class-banner.jpg
+    'twitter:card' : summary
+    'twitter:site' : @FellCleavecom
+    'twitter:title' : Gladiator Class Guide
+    'twitter:description' : Detailed Gladiator leveling rotation guild including detailed Hunting Logs for each rank.
+    'twitter:image' : http://fellcleave.com/classes/gladiator/gladiator-class-banner.jpg   
 ---
 
 ## Lore
