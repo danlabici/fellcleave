@@ -1,11 +1,31 @@
 ---
 title: 'Hunting Logs'
-metadata:
-    description: 'Pugilist Hunting Log guide covering Rank 1 to 5 with most efficient route to take.'
 visible: true
-displayTitle: 'Pugilist Rank 1 to 5 Hunting Logs'
+favicon: pugilist.png
+SEOTitle: 'Pugilist Hunting Logs - Rank 1 to 5'
 shortTitle: 'Hunting Logs'
+displayTitle: 'Pugilist Rank 1 to 5 Hunting Logs'
 hasIcon: true
+showSubpages: false
+gameVersion: '4.0'
+newsImageLarge: huntinglog.jpg
+comments: true
+adsense:
+    - sidebar
+    - comments
+metadata:
+    description: 'Detailed Pugilist hunting logs covering rank 1 to 5.'
+    keywords: 'Pugilist, Pugilist guide, Pugilist hunting log, Pugilist hunt, hunting log'
+    author: 'Danut Ioan Labici'
+    'og:title': Pugilist Hunting Log Guide - All Ranks
+    'og:type': website
+    'og:url': http://fellcleave.com/classes/pugilist/hunting-logs
+    'og:image': http://fellcleave.com/classes/pugilist/hunting-logs/huntinglog.jpg
+    'twitter:card' : summary_large_image
+    'twitter:site' : @FellCleavecom
+    'twitter:title' : Pugilist Hunting Log Guide - All Ranks
+    'twitter:description' : Detailed Pugilist hunting logs covering rank 1 to 5.
+    'twitter:image' : http://fellcleave.com/classes/pugilist/hunting-logs/huntinglog.jpg   
 topics:
     - Introduction
     - 'Rank 1 - Lv1-10'
@@ -14,10 +34,6 @@ topics:
     - 'Rank 4 - Lv30-40'
     - 'Rank 5 - Lv40-50'
     - 'Comment Section'
-showSubpages: false
-gameVersion: 3.55
-newsImageLarge: huntinglog.jpg
-comments: true
 ---
 
 ## Guide overview
