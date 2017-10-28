@@ -13,6 +13,20 @@ comments: true
 adsense:
     - sidebar
     - comments
+metadata:
+    description: 'Detailed Arcanist leveling rotation guild and tips for a better class understanding.'
+    keywords: 'arcanist, arcanist guide, arcanist leveling, arcanist rotation, how to become an arcanist'
+    author: 'Danut Ioan Labici'
+    'og:title': Arcanist Class Guide
+    'og:type': website
+    'og:url': fellcleave.com/classes/arcanist/
+    'og:image': http://fellcleave.com/classes/arcanist/arcanist-class-banner.jpg
+    'twitter:card' : summary
+    'twitter:site' : @FellCleavecom
+    'twitter:title' : Arcanist Class Guide
+    'twitter:description' : Detailed Arcanist leveling rotation guild including detailed Hunting Logs for each rank.
+    'twitter:image' : http://fellcleave.com/classes/arcanist/arcanist-class-banner.jpg
+        
 ---
 
 ## Lore
