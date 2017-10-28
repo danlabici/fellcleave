@@ -1,11 +1,31 @@
 ---
 title: 'Hunting Logs'
-metadata:
-    description: 'Marauder Hunting Log guide covering Rank 1 to 5 with most efficient route to take.'
 visible: true
-displayTitle: 'Marauder Rank 1 to 5 Hunting Logs'
+favicon: marauder.png
+SEOTitle: 'Marauder Hunting Logs - Rank 1 to 5'
 shortTitle: 'Hunting Logs'
+displayTitle: 'Marauder Rank 1 to 5 Hunting Logs'
 hasIcon: true
+showSubpages: false
+gameVersion: '4.0'
+newsImageLarge: huntinglog.jpg
+comments: true
+adsense:
+    - sidebar
+    - comments
+metadata:
+    description: 'Detailed Marauder hunting logs covering rank 1 to 5.'
+    keywords: 'Marauder, Marauder guide, Marauder hunting log, Marauder hunt, hunting log'
+    author: 'Danut Ioan Labici'
+    'og:title': Marauder Hunting Log Guide - All Ranks
+    'og:type': website
+    'og:url': http://fellcleave.com/classes/marauder/hunting-logs
+    'og:image': http://fellcleave.com/classes/marauder/hunting-logs/huntinglog.jpg
+    'twitter:card' : summary_large_image
+    'twitter:site' : @FellCleavecom
+    'twitter:title' : Marauder Hunting Log Guide - All Ranks
+    'twitter:description' : Detailed Marauder hunting logs covering rank 1 to 5.
+    'twitter:image' : http://fellcleave.com/classes/marauder/hunting-logs/huntinglog.jpg   
 topics:
     - Introduction
     - 'Rank 1 - Lv1-10'
@@ -14,10 +34,6 @@ topics:
     - 'Rank 4 - Lv30-40'
     - 'Rank 5 - Lv40-50'
     - 'Comment Section'
-showSubpages: false
-gameVersion: 3.55
-newsImageLarge: huntinglog.jpg
-comments: true
 ---
 
 ## Guide overview
