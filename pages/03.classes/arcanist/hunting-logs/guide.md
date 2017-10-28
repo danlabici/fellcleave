@@ -1,13 +1,13 @@
 ---
 title: 'Hunting Logs'
 visible: true
-favicon: http://fellcleave.com/user/images/job_icons/ninja.png
+favicon: 'http://fellcleave.com/user/images/job_icons/ninja.png'
 SEOTitle: 'Arcanist Class Guides'
 shortTitle: 'Hunting Logs'
 displayTitle: 'Arcanist Rank 1 to 5 Hunting Logs'
 hasIcon: true
 showSubpages: false
-gameVersion: 4.0
+gameVersion: !!float 4
 newsImageLarge: huntinglog.jpg
 comments: true
 adsense:
@@ -17,15 +17,15 @@ metadata:
     description: 'Detailed Arcanist leveling rotation guild and tips for a better class understanding.'
     keywords: 'arcanist, arcanist guide, arcanist leveling, arcanist rotation, how to become an arcanist'
     author: 'Danut Ioan Labici'
-    'og:title': Arcanist Class Guide
+    'og:title': 'Arcanist Class Guide'
     'og:type': website
     'og:url': fellcleave.com/classes/arcanist/
-    'og:image': http://fellcleave.com/classes/arcanist/arcanist-class-banner.jpg
-    'twitter:card' : summary
-    'twitter:site' : @FellCleavecom
-    'twitter:title' : Arcanist Class Guide
-    'twitter:description' : Detailed Arcanist leveling rotation guild including detailed Hunting Logs for each rank.
-    'twitter:image' : http://fellcleave.com/classes/arcanist/arcanist-class-banner.jpg   
+    'og:image': 'http://fellcleave.com/classes/arcanist/arcanist-class-banner.jpg'
+    'twitter:card': summary
+    'twitter:site': '@FellCleavecom'
+    'twitter:title': 'Arcanist Class Guide'
+    'twitter:description': 'Detailed Arcanist leveling rotation guild including detailed Hunting Logs for each rank.'
+    'twitter:image': 'http://fellcleave.com/classes/arcanist/arcanist-class-banner.jpg'
 topics:
     - Introduction
     - 'Rank 1 - Lv1-10'
