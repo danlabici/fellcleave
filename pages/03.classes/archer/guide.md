@@ -2,17 +2,32 @@
 title: Archer
 visible: true
 favicon: archer.png
+SEOTitle: 'Archer Class Guides'
+shortTitle: Archer
+displayTitle: 'Archer Class Guide'
 hasIcon: true
 showSubpages: true
-displayTitle: 'Archer Class Guide'
-shortTitle: Archer
 gameVersion: '4.0'
 newsImageLarge: archer-class-banner.jpg
 comments: true
 adsense:
     - sidebar
     - comments
+metadata:
+    description: 'Detailed Archer leveling rotation guild and tips for a better class understanding.'
+    keywords: 'archer, archer guide, archer leveling, archer rotation, how to become an archer'
+    author: 'Danut Ioan Labici'
+    'og:title': Archer Class Guide
+    'og:type': website
+    'og:url': fellcleave.com/classes/archer/
+    'og:image': http://fellcleave.com/classes/archer/archer-class-banner.jpg
+    'twitter:card' : summary
+    'twitter:site' : @FellCleavecom
+    'twitter:title' : Archer Class Guide
+    'twitter:description' : Detailed Archer leveling rotation guild including detailed Hunting Logs for each rank.
+    'twitter:image' : http://fellcleave.com/classes/archer/archer-class-banner.jpg   
 ---
+
 
 ## Lore
 <div class="row">

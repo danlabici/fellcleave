@@ -25,8 +25,7 @@ metadata:
     'twitter:site' : @FellCleavecom
     'twitter:title' : Arcanist Class Guide
     'twitter:description' : Detailed Arcanist leveling rotation guild including detailed Hunting Logs for each rank.
-    'twitter:image' : http://fellcleave.com/classes/arcanist/arcanist-class-banner.jpg
-        
+    'twitter:image' : http://fellcleave.com/classes/arcanist/arcanist-class-banner.jpg   
 ---
 
 ## Lore
