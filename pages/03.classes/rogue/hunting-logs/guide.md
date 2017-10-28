@@ -1,11 +1,31 @@
 ---
 title: 'Hunting Logs'
-displayTitle: 'Rogue Rank 1 to 5 Hunting Logs'
-shortTitle: 'Hunting Logs'
-metadata:
-    description: 'Rogue Hunting Log guide covering Rank 1 to 5 with most efficient route to take.'
 visible: true
+favicon: rogue.png
+SEOTitle: 'Rogue Hunting Logs - Rank 1 to 5'
+shortTitle: 'Hunting Logs'
+displayTitle: 'Rogue Rank 1 to 5 Hunting Logs'
 hasIcon: true
+showSubpages: false
+gameVersion: '4.0'
+newsImageLarge: huntinglog.jpg
+comments: true
+adsense:
+    - sidebar
+    - comments
+metadata:
+    description: 'Detailed Rogue hunting logs covering rank 1 to 5.'
+    keywords: 'Rogue, Rogue guide, Rogue hunting log, Rogue hunt, hunting log'
+    author: 'Danut Ioan Labici'
+    'og:title': Rogue Hunting Log Guide - All Ranks
+    'og:type': website
+    'og:url': http://fellcleave.com/classes/rogue/hunting-logs
+    'og:image': http://fellcleave.com/classes/rogue/hunting-logs/huntinglog.jpg
+    'twitter:card' : summary_large_image
+    'twitter:site' : @FellCleavecom
+    'twitter:title' : Rogue Hunting Log Guide - All Ranks
+    'twitter:description' : Detailed Rogue hunting logs covering rank 1 to 5.
+    'twitter:image' : http://fellcleave.com/classes/rogue/hunting-logs/huntinglog.jpg   
 topics:
     - Introduction
     - 'Rank 1 - Lv1-10'
@@ -14,10 +34,6 @@ topics:
     - 'Rank 4 - Lv30-40'
     - 'Rank 5 - Lv40-50'
     - 'Comment Section'
-showSubpages: false
-gameVersion: 3.55
-newsImageLarge: huntinglog.jpg
-comments: true
 ---
 
 ## Guide overview
