@@ -70,7 +70,6 @@ Both issue lists are sorted by total number of comments. While not perfect, numb
 * Follow the [Markdown](http://www.cirosantilli.com/markdown-style-guide/) styleguides.
 * Include thoughtfully-worded, well-structured content, if you are working on a guide.
 * End all files with a newline
-* [Avoid platform-dependent code](http://flight-manual.atom.io/hacking-atom/sections/cross-platform-compatibility/)
 
 
 ## Styleguides
