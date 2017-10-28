@@ -1,5 +1,7 @@
 ---
 title: 'Terms of Service'
+metadata:
+    robots: 'noindex'
 ---
 
 **Last updated: May 20, 2017**

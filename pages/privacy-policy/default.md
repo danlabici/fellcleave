@@ -1,5 +1,7 @@
 ---
 title: 'Privacy Policy'
+metadata:
+    robots: 'noindex'
 ---
 
 This Privacy Policy governs the manner in which FellCleave collects, uses, maintains and discloses information collected from users (each, a "User") of the https://fellcleave.com website ("Site").

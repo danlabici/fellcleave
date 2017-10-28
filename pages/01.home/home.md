@@ -14,15 +14,11 @@ twitch:
     show: true
     streamers:
         - akhlis
-        - u_despair
-        - garotte14
         - avalonstar
     featured:
         - null
     staff:
         - Akhlis
-        - u_despair
-        - garotte14
     video: P-EpQ_V5p1g
 ---
 
