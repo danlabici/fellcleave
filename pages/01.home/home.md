@@ -20,5 +20,13 @@ twitch:
     staff:
         - Akhlis
     video: P-EpQ_V5p1g
+content:
+    items: '@self.children'
+    limit: 1
+    order:
+        by: date
+        dir: desc
+    pagination: true
+    url_taxonomy_filters: true
 ---
 
