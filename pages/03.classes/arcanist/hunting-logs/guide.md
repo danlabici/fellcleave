@@ -1,7 +1,7 @@
 ---
 title: 'Hunting Logs'
 visible: true
-favicon: ../arcanist.png
+favicon: arcanist.png
 SEOTitle: 'Arcanist Class Guides'
 shortTitle: 'Hunting Logs'
 displayTitle: 'Arcanist Rank 1 to 5 Hunting Logs'
